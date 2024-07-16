@@ -10,4 +10,4 @@ This is an attempt of accepting the [#PyQGISChallenge](https://spatialthoughts.c
 
 | Days | links | notes |
 | --- | --- | --- |
-| **Day 1** July 15, 2024 | - [Intro & Course Overview](https://www.youtube.com/watch?v=-nJ_8Ph_yPE&list=PLppGmFLhQ1HJVTn0yBvHNXJaO7oG6T-d1)<br>- [Get the Data Package and Complete the setup](https://www.youtube.com/watch?v=pduLcKzc3L8&list=PLppGmFLhQ1HJVTn0yBvHNXJaO7oG6T-d1&index=3) | [Day01.md](notes/Day01.md) |
+| **Day 1**<br>July 15, 2024 | - [Intro & Course Overview](https://www.youtube.com/watch?v=-nJ_8Ph_yPE&list=PLppGmFLhQ1HJVTn0yBvHNXJaO7oG6T-d1)<br>- [Get the Data Package and Complete the setup](https://www.youtube.com/watch?v=pduLcKzc3L8&list=PLppGmFLhQ1HJVTn0yBvHNXJaO7oG6T-d1&index=3) | [Day01.md](notes/Day01.md) |
